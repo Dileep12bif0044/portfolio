@@ -32,7 +32,7 @@ export default function Home({ postsData }) {
   return (
     <HomePageWrapper>
       <Head>
-        <title>Hola!, Blogs with good components</title>
+        <title>Blogs!</title>
       </Head>
       <Navbar />
       <div className="main">
